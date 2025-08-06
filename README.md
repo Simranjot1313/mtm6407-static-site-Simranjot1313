@@ -70,18 +70,18 @@ cd mtm6407-static-site-Simranjot1313
 ---
 ## 🌍 Deployment Options 
 
-GitHub Pages    
-Netlify    
+-GitHub Pages    
+-Netlify    
 
 ---
 
 ## 🎯 Learning Outcomes    
 
-By completing this project, I learned:    
-How static site generators work  
-How to structure content in Markdown  
-How VuePress handles routing, navigation, and themes  
-How to build and deploy static websites efficiently    
+-By completing this project, I learned:    
+-How static site generators work  
+-How to structure content in Markdown  
+-How VuePress handles routing, navigation, and themes  
+-How to build and deploy static websites efficiently    
 
 ---
 
@@ -92,6 +92,7 @@ This project was created by **Simranjot Kaur** for academic purposes as part of 
 All rights reserved.  
 
 © 2025 Simranjot Kaur
+
 
 
 
