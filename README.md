@@ -90,10 +90,9 @@ How to build and deploy static websites efficiently
 This project was created by **Simranjot Kaur** for academic purposes as part of the MTM6407 Web Development IV course at Algonquin CDI College.  
 
 All rights reserved.  
-You may view or download this code for educational reference only.  
-You may not reuse, copy, distribute, or modify any part of this project for commercial or public use without written permission.
 
 © 2025 Simranjot Kaur
+
 
 
 
